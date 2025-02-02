@@ -2,6 +2,16 @@ from flask import Flask, request, jsonify
 import joblib
 import spacy
 from textblob import TextBlob
+import spacy
+import os
+
+# Check if the model exists, if not, download it
+model_name = "en_core_web_sm"
+try:
+    nlp = spacy.load(model_name)
+except OSError:
+    os.system(f"python -m spacy download {model_name}")
+    nlp = spacy.load(model_name)
 
 # Load the pre-trained model and vectorizer
 model = joblib.load('crime_report_model.pkl')
