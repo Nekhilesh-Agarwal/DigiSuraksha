@@ -1,0 +1,159 @@
+Crime Report,Urgency Label
+Help! Someone is being stabbed right now!,High
+There is a robbery happening right now!,High
+Shots fired in my neighborhood!,High
+A woman is being attacked in an alley!,High
+A person is unconscious on the street!,High
+A person is trapped in a burning house!,High
+A man is threatening people with a gun!,High
+Emergency! Someone has been shot!,High
+A violent fight is happening outside!,High
+There’s a bomb threat in a public place!,High
+Suspicious person loitering near my house.,Moderate
+Car theft reported in my neighborhood.,Moderate
+Strange people gathering near the school.,Moderate
+There’s a large protest near the city center.,Moderate
+A group of teenagers are vandalizing public property.,Moderate
+There’s a heated argument at a store.,Moderate
+A person is trespassing into a restricted area.,Moderate
+A man is trying to open parked cars.,Moderate
+A drunk driver is swerving dangerously.,Moderate
+People throwing stones at moving cars.,Moderate
+Loud noises last night in my area.,Low
+My wallet was stolen in the market.,Low
+Broken windows in the shop this morning.,Low
+People are arguing loudly in the street.,Low
+A street performer is being harassed.,Low
+Someone is playing loud music late at night.,Low
+A dog has been barking for hours.,Low
+A neighbor is burning trash illegally.,Low
+Someone is flying a drone near restricted airspace.,Low
+People are drinking in a public park.,Low
+Help! A person just collapsed on the sidewalk!,High
+Armed robbery at the grocery store!,High
+Someone is shouting for help from an apartment window!,High
+A car crash on the main highway!,High
+A fire has broken out in the old factory building!,High
+A man is threatening to jump off a building!,High
+Gunshots heard in the alley behind the restaurant!,High
+People are being chased by a group of armed men!,High
+A vehicle is blocking the emergency lane!,High
+Someone is spraying graffiti on the subway walls.,Moderate
+People are setting off fireworks in the park.,Moderate
+A suspicious vehicle is parked in front of my house.,Moderate
+There's a large crowd gathering outside a nightclub.,Moderate
+People are loitering around a school parking lot.,Moderate
+A person is arguing with a cashier in the store.,Moderate
+There’s a group of people smoking marijuana in the park.,Moderate
+Two people were fighting in front of the bus stop.,Moderate
+A man is yelling at people in the street.,Moderate
+Children are playing too close to a busy road.,Moderate
+Someone is walking around in the neighborhood at night.,Low
+A person is trying to sell items door to door.,Low
+People are talking loudly in the hallway.,Low
+A neighbor is parking in front of my driveway.,Low
+A man is walking his dog late at night.,Low
+The lights in the building are flickering.,Low
+Someone is jaywalking across the street.,Low
+There's an abandoned car in the parking lot.,Low
+People are feeding pigeons in the public square.,Low
+Someone is taking photos of people without their permission.,Low
+A fight broke out in the food court.,Moderate
+Two cars collided in the intersection.,Moderate
+A large dog is running loose in the neighborhood.,Moderate
+Suspicious activity at the ATM machine.,Moderate
+A person is smoking a cigarette inside the mall.,Moderate
+People are arguing over a parking spot.,Moderate
+A bicycle was stolen from a bike rack.,Moderate
+Someone is trying to steal packages from my porch.,Moderate
+A person was caught loitering around a closed store.,Moderate
+There's a loud party happening next door.,Low
+A person is cutting down trees without permission.,Low
+Someone is walking around with a flashlight at night.,Low
+People are hanging out in front of the convenience store.,Low
+A streetlight is out in the park.,Low
+Someone is watering their lawn late at night.,Low
+There's a broken sign outside the restaurant.,Low
+A dog is left tied up outside in the cold.,Low
+There's a small fire burning in the alleyway.,Moderate
+A car is parked illegally in a handicapped spot.,Moderate
+Someone is trying to break into a store.,High
+A person just crashed into a tree!,High
+Someone just punched a guy in the face!,High
+An explosion was heard from the construction site!,High
+People are causing a disturbance in the library.,Moderate
+A suspicious man is walking around in the parking garage.,Moderate
+A person was seen putting up posters without approval.,Low
+Someone is walking around looking lost.,Low
+A delivery truck is blocking the road.,Low
+Someone dropped their shopping bags in the middle of the street.,Low
+A person is sitting on the curb talking loudly.,Low
+A tree branch fell down on the sidewalk.,Low
+A person is blowing leaves in the yard.,Low
+There's a loud car alarm going off in the neighborhood.,Low
+Someone just reported a fire in the warehouse.,High
+People are caught trying to break into a car.,High
+There's an accident on the bridge.,High
+Help! There’s a robbery happening at the bank!,High
+A neighbor is loudly arguing with their partner.,Low
+A person is sitting on a park bench in the dark.,Low
+A package was left in front of the door.,Low
+People are running out of the building screaming.,High
+Someone has been hit by a car in the crosswalk.,High
+Help! Someone is trying to break into my house!,High
+A person is asking for money near the bus station.,Low
+Someone is loitering near the entrance of the school.,Low
+A car is parked in front of a fire hydrant.,Low
+People are setting up a stage in the park for an event.,Low
+A suspicious package was left in front of my door.,High
+A person is trying to get into an office building at night.,Moderate
+Someone is cutting power lines in the alley.,High
+A suspicious person was seen carrying a large bag.,Moderate
+A fire broke out in the neighborhood.,High
+People are littering in the park.,Low
+A person is playing loud music in their apartment.,Low
+Someone is walking around in the parking lot late at night.,Low
+A person was caught trying to shoplift.,Moderate
+A large group of people is blocking the street.,Moderate
+Someone was seen following a woman home.,Moderate
+An elderly person is wandering around the neighborhood.,Low
+A person is acting suspicious near the bank.,Moderate
+A dog is barking excessively in my neighbor’s yard.,Low
+A man was caught trying to steal bicycles.,Moderate
+A person is disturbing the peace in the library.,Low
+Someone just jumped over the fence into my yard.,High
+A person was seen taking a package from a neighbor’s doorstep.,Moderate
+Someone is trying to siphon gas from my car!,High
+A tree just fell across the road!,High
+I smell gas in my house!,High
+There's a swarm of bees in my backyard!,Moderate
+My cat is stuck in a tree!,Moderate
+There's a water leak in my ceiling.,Moderate
+My internet is down!,Low
+I locked myself out of my house.,Low
+There's a pothole in the street.,Low
+A bird flew into my window.,Low
+My tire is flat.,Low
+Someone keyed my car.,Moderate
+There is a stray dog in my yard.,Low
+My garbage can is overflowing.,Low
+My mail was stolen.,Low
+There is a power outage in my neighborhood.,Moderate
+My smoke alarm is going off.,High
+I saw someone shoplifting.,Moderate
+There is a lot of traffic on the highway.,Low
+My neighbor's tree is hanging over my property.,Low
+I found a lost wallet.,Low
+There is a suspicious package at the post office.,High
+A man is following me.,Moderate
+My car won't start.,Low
+There is a fire in the park.,High
+There is a car accident at the intersection.,High
+Someone broke into my house.,High
+I am lost.,Low
+There is a gas leak in my building.,High
+My child is missing.,High
+I need an ambulance.,High
+I need the fire department.,High
+I need the police.,High
+My house is flooding.,High
